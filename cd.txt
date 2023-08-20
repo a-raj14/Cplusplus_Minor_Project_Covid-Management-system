@@ -1,0 +1,3 @@
+cd
+Ayush Rajputcd "d:\COVID-19-Management-System-cpp-main\COVID-19-Management-System-cpp-main\" ; if ($?) { g++ Covid-Management-System.cpp -o Covid-Management-System } ; if ($?) { .\Covid-Management-System }
+"d:\COVID-19-Management-System-cpp-main\COVID-19-Management-System-cpp-main\"
